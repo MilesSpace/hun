@@ -23,12 +23,12 @@
 ## 🚀 快速开始
 
 ### 在线游玩
-直接访问 [GitHub Pages](https://your-username.github.io/hun/) 即可开始游戏
+直接访问 [GitHub Pages](https://chensihai230.github.io/hun/) 即可开始游戏
 
 ### 本地运行
 1. 克隆仓库
 ```bash
-git clone https://github.com/your-username/hun.git
+git clone https://github.com/chensihai230/hun.git
 cd hun
 ```
 
