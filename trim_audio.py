@@ -36,6 +36,7 @@ def trim_audio_to_duration(input_file, output_file, target_duration=3.0):
         print(f"音频已保存到: {output_file}")
         print(f"最终时长: {len(audio)/sr:.2f}秒")
         # 将音频文件转换为16位
+        # xiugai
     except Exception as e:
         print(f"处理音频时出错: {e}")
 
